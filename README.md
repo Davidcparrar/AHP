@@ -12,6 +12,7 @@ Criteria for shop location decision
 Preference Scale
 
 | Degree of importance | Definition | Spanish |
+| --------- | -----------| ---------- |
 | 1 | Equal importance | Igualmente preferible |
 | 2 | Weak | Entre igualmente y moderadamente preferible |
 | 3 | Moderate importance | Moderadamente preferible |
